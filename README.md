@@ -40,6 +40,7 @@
 - [交易特性]
     -  [Fundrawtransaction](https://bitcoincore.org/en/releases/0.14.0/)
 - [技术选型](http://blog.csdn.net/sunkun2013/article/details/52997971)
+- [打开区块链的正确姿势](http://blog.csdn.net/owndiandian/article/details/54598987)
     
 # 智能合约
 -  [以太坊和超级账本](knowledge/compare.md)
