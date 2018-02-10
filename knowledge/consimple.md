@@ -23,7 +23,7 @@
 
 4个节点，0为leader，同时节点3为fault节点，该节点不响应和发出任何消息。最终节点状态达到commited时，表示该轮共识成功达成。
 
-![1](../pictrue/pbft.jpg)
+![1](../picture/pbft.jpg)
 
 consensus的效率至少有两方面，一是确认时间，一是scalability--网络节点数乃至dynamics。
 
