@@ -66,6 +66,8 @@
  - [区块链]
      - [评估框架]
          - [blockbench](knowledge/valuable.md)
+    
+     - [比特币](https://github.com/bitcoin)
      - [比特股1.0](https://github.com/bytemaster/bitshares)
      - [比特股2.0 c++](http://github.com/bitshares)
      - [fabric go](https://github.com/hyperledger/fabric)
