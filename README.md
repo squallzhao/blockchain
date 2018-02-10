@@ -8,6 +8,7 @@
 -  [钱包]
     -  [钱包种类](knowledge/category.md)
     -  [HD算法](knowledge/hd.md)
+    -  [HD安全性](knowledge/hdsafe.md)
 -  [共识算法](knowledge/consimple.md)
     -  [POW](knowledge/pow.md)
     -  [POS](knowledge/pos.md)
