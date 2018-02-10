@@ -63,9 +63,12 @@
          - [ios](https://github.com/arcbit/arcbit-ios)
          - [web](https://github.com/arcbit/arcbit-web)
          - [android](https://github.com/arcbit/arcbit-android)
+ - [开发库]
+     - [restful c++](https://github.com/mrtazz/restclient-cpp)
+     
  - [区块链]
      - [评估框架]
-         - [blockbench](knowledge/valuable.md)
+         - [blockbench](knowledge/valuable.md) [源码](https://github.com/ooibc88/blockbench)
     
      - [比特币 c++](https://github.com/bitcoin)   [官网](https://bitcoin.org/)
      - [比特股1.0](https://github.com/bytemaster/bitshares)
@@ -73,6 +76,7 @@
      - [fabric go](https://github.com/hyperledger/fabric)
      - [以太坊 go](https://github.com/ethereum/)
      - [亿书 nodejs](https://github.com/Ebookcoin) [官网](http://ebookchain.org/) 《Nodejs开发加密货币》
+     - [decent内容发行](https://github.com/DECENTfoundation/DECENT-Network)
      - [小蚁股 智能合约 c#](https://github.com/antshares/antshares)
      - [未来币 java](https://bitbucket.org/JeanLucPicard/nxt/overview)
      - [tendermint 支持分片和智能合约10000tps go](https://github.com/tendermint/tendermint)
