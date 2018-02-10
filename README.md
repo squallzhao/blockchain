@@ -95,7 +95,7 @@
      - [decent内容发行](https://github.com/DECENTfoundation/DECENT-Network) [官网](https://decent.ch)
      - [litecoin](https://github.com/litecoin-project/litecore-litecoin)
      - [namecoin](https://github.com/namecoin/namecoin-core)
-     - [emercoin](https://github.com/emercoin/emercoin)
+     - [emercoin](https://github.com/emercoin/emercoin)  [emercoin-blockchain-explorer](https://github.com/Valermos/emercoin-blockchain-explorer)
      
      - [小蚁股 智能合约 c#](https://github.com/antshares/antshares)
      - [未来币 java](https://bitbucket.org/JeanLucPicard/nxt/overview)
