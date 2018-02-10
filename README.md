@@ -1,5 +1,7 @@
 *[区块链初步介绍](knowledge/turial.md)
 
+*[核心算法](knowledge/kernel.md)
+
 # 区块链基础 
 -  [块结构](knowledge/struct.md)
 -  [链结构](knowledge/chainstruct.md)
@@ -20,6 +22,7 @@
 -  [奖励机制](knowledge/reward.md)
 -  [零知识证明](knowledge/zero.md)
 -  [隔离见证](knowledge/ge.md)
+-  [侧链元素链](knowledge/celian.md)
 -  [比特币改进提案bips](https://github.com/bitcoin/bips)
 -  [区块链第二层](knowledge/secondlayer.md)
 -  [预言机oracle](knowledge/yuyanji.md)
