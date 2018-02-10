@@ -77,6 +77,7 @@
          - [android](https://github.com/arcbit/arcbit-android)
  - [开发库]
      - [restful c++](https://github.com/mrtazz/restclient-cpp)
+     - [libbitcoin](https://github.com/libbitcoin/libbitcoin)
      
  - [区块链]
      - [评估框架]
