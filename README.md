@@ -75,6 +75,8 @@
      - [比特股2.0 c++](http://github.com/bitshares)
      - [fabric go](https://github.com/hyperledger/fabric)
      - [以太坊 go](https://github.com/ethereum/)
+     - [Bytom](https://github.com/Bytom/bytom)
+     - [ripple](https://github.com/ripple/rippled)
      - [亿书 nodejs](https://github.com/Ebookcoin) [官网](http://ebookchain.org/) 《Nodejs开发加密货币》
      - [decent内容发行](https://github.com/DECENTfoundation/DECENT-Network) [官网](https://decent.ch)
      - [小蚁股 智能合约 c#](https://github.com/antshares/antshares)
