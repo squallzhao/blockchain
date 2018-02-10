@@ -28,13 +28,14 @@
 -  [以太坊和超级账本](knowledge/compare.md)
 
 # 源码
-- [多链挖矿](https://github.com/luke-jr/bfgminer/)
-- [Cpu多算法挖矿](https://github.com/lucasjones/cpuminer-multi)
-- [Gpu挖矿支持stratum](https://github.com/Bufius/vertminer-gpu)
-- [opencv-gpu挖矿]
-    - [opencl_sha_al_im](https://github.com/Fruneng/opencl_sha_al_im)
-    - [opencl_brute](https://github.com/bkerler/opencl_brute)
-    - [GpuShaTest](https://github.com/jonano614/GpuShaTest/)
-    - [DaggerGpuMiner](https://github.com/jonano614/DaggerGpuMiner)
+- [挖矿]
+    - [多链挖矿](https://github.com/luke-jr/bfgminer/)
+    - [Cpu多算法挖矿](https://github.com/lucasjones/cpuminer-multi)
+    - [Gpu挖矿支持stratum](https://github.com/Bufius/vertminer-gpu)
+    - [opencv-gpu挖矿]
+        - [opencl_sha_al_im](https://github.com/Fruneng/opencl_sha_al_im)
+        - [opencl_brute](https://github.com/bkerler/opencl_brute)
+        - [GpuShaTest](https://github.com/jonano614/GpuShaTest/)
+        - [DaggerGpuMiner](https://github.com/jonano614/DaggerGpuMiner)
  
 
