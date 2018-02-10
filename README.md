@@ -46,5 +46,10 @@ Bitcoin 网络中的每个完整节点独立地存储仅包含由节点验证过
 |Index |0|
 |scriptSig |304502206e21798a42fae0e854281abd38bacd1aeed3ee3738d9e1446618c4571d1090db022100e2ac980643b0b82c0e88ffdfec6b64e3e6ba35e7ba5fdd7d5d6cc8d25c6b241501|
 
+输出
 
+|Field	|		value|
+|- |- |
+|Value| 5000000000|
+|scriptPubKey| OP_DUP OP_HASH160 404371705fa9bd789a2fcd52d2c580b65d35549d OP_EQUALVERIFY OP_CHECKSIG|
 
