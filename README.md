@@ -13,12 +13,16 @@
 -  [比特币改进提案bips](https://github.com/bitcoin/bips)
 -  [运行模式, 交易类型, 部署](knowledge/mode.md)
 -  [stratum协议原理](http://blog.csdn.net/taifei/article/details/73322595)
+-  [stratum协议](https://slushpool.com/help/manual/stratum-protocol#download)
+-  [stratum开发](https://www.jianshu.com/p/7b068d874244)
+
 
 # 智能合约
 -  [以太坊和超级账本](knowledge/compare.md)
 
 # 源码
-- [显卡挖矿](https://github.com/luke-jr/bfgminer/)
+- [简单显卡挖矿](https://github.com/luke-jr/bfgminer/)
 - [Cpu多算法挖矿](https://github.com/lucasjones/cpuminer-multi)
+- [Gpu挖矿支持stratum](https://github.com/Bufius/vertminer-gpu)
  
 
