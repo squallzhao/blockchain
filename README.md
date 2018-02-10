@@ -1,3 +1,5 @@
+*[区块链初步介绍](knowledge/turial.md)
+
 # 区块链基础 
 -  [块结构](knowledge/struct.md)
 -  [链结构](knowledge/chainstruct.md)
