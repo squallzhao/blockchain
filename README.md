@@ -4,14 +4,15 @@
 -  [交易数据merkle树](knowledge/transaction.md)
 -  [钱包地址算法](knowledge/walletaddress.md)
 -  [共识算法](knowledge/consimple.md)
-  -  [POW](knowledge/pow.md)
-  -  [POS](knowledge/pos.md)
+-  [POW](knowledge/pow.md)
+-  [POS](knowledge/pos.md)
 -  [块高和分叉](knowledge/blockheight.md)
 -  [共识规则更改软硬分叉](knowledge/con.md)
 -  [检测分叉](knowledge/fenchadetect.md)
 -  [隔离见证](knowledge/ge.md)
 -  [比特币改进提案bips](https://github.com/bitcoin/bips)
 -  [运行模式, 交易类型, 部署](knowledge/mode.md)
+-  [stratum协议原理](http://blog.csdn.net/taifei/article/details/73322595)
 
 # 智能合约
 -  [以太坊和超级账本](knowledge/compare.md)
