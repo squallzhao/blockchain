@@ -2,6 +2,7 @@
 -  [块结构](knowledge/struct.md)
 -  [链结构](knowledge/chainstruct.md)
 -  [交易数据merkle树](knowledge/transaction.md)
+-  [钱包地址算法](knowledge/walletaddress.md)
 -  [POW](knowledge/pow.md)
 -  [POS](knowledge/pos.md)
 -  [块高和分叉](knowledge/blockheight.md)
