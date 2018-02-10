@@ -26,3 +26,14 @@ Bitcoin 网络中的每个完整节点独立地存储仅包含由节点验证过
 |Time	|UTC到现在为止的时间间隔，单位为秒 	|	每几秒|	4|
 |Bits	|当前POW的目标哈希值的压缩形式	|难度调整时|	4|
 |Nonce	|32-bit 随机数	|尝试新的hash时|	4|
+
+交易 
+|Field	|		描述|	大小bytes|
+|- | :-: | -:|
+|Version no |		版本号，当前为1 |				4 |
+|In-counter|	输入交易数量，正整数|	1 - 9 |
+|list of inputs|	输入列表，每个区块中第一个交易被称为“Coinbase”	|many inputs|
+|Out-counter	|输出交易数量，正整数|	1 - 9 |
+|list of outputs |	输出列表，每个区块中第一个输出交易是给矿工的奖励	|many outputs|
+|lock_time	|锁定时间，如果非0并且小于0xFFFFFFFF，那么就是指块序号；如果交易已经终结，那么就是指时间戳	|4 |
+
