@@ -24,7 +24,8 @@
 - [多链挖矿](https://github.com/luke-jr/bfgminer/)
 - [Cpu多算法挖矿](https://github.com/lucasjones/cpuminer-multi)
 - [Gpu挖矿支持stratum](https://github.com/Bufius/vertminer-gpu)
-- [opencv-gpu挖矿]()
+- [opencv-gpu挖矿]
+
     -[opencl_sha_al_im](https://github.com/Fruneng/opencl_sha_al_im)
     -[opencl_brute](https://github.com/bkerler/opencl_brute)
     -[GpuShaTest](https://github.com/jonano614/GpuShaTest/)
