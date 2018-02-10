@@ -76,7 +76,7 @@
      - [fabric go](https://github.com/hyperledger/fabric)
      - [以太坊 go](https://github.com/ethereum/)
      - [亿书 nodejs](https://github.com/Ebookcoin) [官网](http://ebookchain.org/) 《Nodejs开发加密货币》
-     - [decent内容发行](https://github.com/DECENTfoundation/DECENT-Network)
+     - [decent内容发行](https://github.com/DECENTfoundation/DECENT-Network) [官网](https://decent.ch)
      - [小蚁股 智能合约 c#](https://github.com/antshares/antshares)
      - [未来币 java](https://bitbucket.org/JeanLucPicard/nxt/overview)
      - [tendermint 支持分片和智能合约10000tps go](https://github.com/tendermint/tendermint)
