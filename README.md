@@ -39,6 +39,7 @@
     -  [开发资源](https://github.com/ChristopherA/Blockchain-Developer-Resources)
 - [交易特性]
     -  [Fundrawtransaction](https://bitcoincore.org/en/releases/0.14.0/)
+- [技术选型](http://blog.csdn.net/sunkun2013/article/details/52997971)
     
 # 智能合约
 -  [以太坊和超级账本](knowledge/compare.md)
@@ -75,6 +76,6 @@
      - [chain 支持智能合约 联盟 go](https://github.com/chain/chain)
      - [myblockchain 联盟 sql](https://github.com/myblockchain/myblockchain)
      - [hydrachain 联盟 基于以太坊私链](https://github.com/HydraChain/hydrachain)
-     
+
          
 
