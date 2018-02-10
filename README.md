@@ -4,6 +4,6 @@
 -  [POW](knowledge/pow.md)
 -  [POS](knowledge/pos.md)
 -  [块高和分叉](knowledge/blockheight.md)
--  [交易数据梅根](knowledge/transaction.md)
+-  [交易数据merkle树](knowledge/transaction.md)
  
 
