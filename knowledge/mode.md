@@ -7,6 +7,7 @@
 # 交易类型
 
 |交易类型	|描述|
+|- | -:|
 |TX_NONSTANDARD	|非标准的交易|
 |TX_PUBKEY|	公钥|
 |TX_PUBKEYHASH	|公钥哈希|
