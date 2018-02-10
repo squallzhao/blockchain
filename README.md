@@ -5,6 +5,9 @@
 -  [地址]
     -  [地址算法](knowledge/walletaddress.md)
     -  [地址前缀](https://en.bitcoin.it/wiki/List_of_address_prefixes)
+-  [钱包]
+    -  [钱包种类](knowledge/category.md)
+    -  [HD算法](knowledge/hd.md)
 -  [共识算法](knowledge/consimple.md)
     -  [POW](knowledge/pow.md)
     -  [POS](knowledge/pos.md)
