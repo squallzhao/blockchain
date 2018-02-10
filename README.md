@@ -9,6 +9,9 @@
 -  [检测分叉](knowledge/fenchadetect.md)
 -  [隔离见证](knowledge/ge.md)
 -  [比特币改进提案bips](https://github.com/bitcoin/bips)
--  [运行模式,交易类型，部署](knowledge/mode.md)
+-  [运行模式, 交易类型, 部署](knowledge/mode.md)
+
+# 智能合约
+-  [以太坊和超级账本](knowledge/compare.md)
  
 
