@@ -63,5 +63,6 @@
  - [区块链]
      - [评估框架]
          - [blockbench](knowledge/valuable.md)
+     - [tendermint 支持分片和智能合约10000tps](https://github.com/tendermint/tendermint)
          
 
