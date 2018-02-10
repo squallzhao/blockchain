@@ -4,8 +4,8 @@
 -  [交易数据merkle树](knowledge/transaction.md)
 -  [钱包地址算法](knowledge/walletaddress.md)
 -  [共识算法](knowledge/consimple.md)
--  [POW](knowledge/pow.md)
--  [POS](knowledge/pos.md)
+    -  [POW](knowledge/pow.md)
+    -  [POS](knowledge/pos.md)
 -  [块高和分叉](knowledge/blockheight.md)
 -  [共识规则更改软硬分叉](knowledge/con.md)
 -  [检测分叉](knowledge/fenchadetect.md)
@@ -21,8 +21,13 @@
 -  [以太坊和超级账本](knowledge/compare.md)
 
 # 源码
-- [简单显卡挖矿](https://github.com/luke-jr/bfgminer/)
+- [多链挖矿](https://github.com/luke-jr/bfgminer/)
 - [Cpu多算法挖矿](https://github.com/lucasjones/cpuminer-multi)
 - [Gpu挖矿支持stratum](https://github.com/Bufius/vertminer-gpu)
+-[opencv gpu挖矿]
+    -[opencl_sha_al_im](https://github.com/Fruneng/opencl_sha_al_im)
+    -[opencl_brute](https://github.com/bkerler/opencl_brute)
+    -[GpuShaTest](https://github.com/jonano614/GpuShaTest/)
+    -[DaggerGpuMiner](https://github.com/jonano614/DaggerGpuMiner)
  
 
