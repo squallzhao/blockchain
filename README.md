@@ -5,8 +5,8 @@
 -  [POW](knowledge/pow.md)
 -  [POS](knowledge/pos.md)
 -  [块高和分叉](knowledge/blockheight.md)
+-  [共识规则更改软硬分叉](knowledge/con.md)
 -  [检测分叉](knowledge/fenchadetect.md)
--  [共识规则更改](knowledge/con.md)
 -  [隔离见证](knowledge/ge.md)
  
 
