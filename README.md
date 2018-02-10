@@ -2,8 +2,9 @@
 -  [块结构](knowledge/struct.md)
 -  [链结构](knowledge/chainstruct.md)
 -  [交易数据merkle树](knowledge/transaction.md)
--  [钱包地址算法](knowledge/walletaddress.md)
--  [地址前缀](https://en.bitcoin.it/wiki/List_of_address_prefixes)
+-  [地址]
+    -  [地址算法](knowledge/walletaddress.md)
+    -  [地址前缀](https://en.bitcoin.it/wiki/List_of_address_prefixes)
 -  [共识算法](knowledge/consimple.md)
     -  [POW](knowledge/pow.md)
     -  [POS](knowledge/pos.md)
