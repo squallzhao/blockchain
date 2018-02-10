@@ -16,7 +16,9 @@
 -  [stratum协议](https://slushpool.com/help/manual/stratum-protocol#download)
     -  [stratum协议原理](http://blog.csdn.net/taifei/article/details/73322595)
     -  [stratum开发](https://www.jianshu.com/p/7b068d874244)
-
+# 教程
+- [比特币]
+    -  [命令行教程](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line)
 
 # 智能合约
 -  [以太坊和超级账本](knowledge/compare.md)
