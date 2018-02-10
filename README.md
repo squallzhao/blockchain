@@ -19,6 +19,8 @@
 # 教程
 - [比特币]
     -  [命令行教程](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line)
+    -  [master bitcoin python](https://github.com/bitcoinbook/bitcoinbook)
+    -  [开发资源](https://github.com/ChristopherA/Blockchain-Developer-Resources)
 
 # 智能合约
 -  [以太坊和超级账本](knowledge/compare.md)
