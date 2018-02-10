@@ -63,7 +63,9 @@
  - [区块链]
      - [评估框架]
          - [blockbench](knowledge/valuable.md)
-     - [fabric](https://github.com/hyperledger/fabric)
+     - [比特股1.0](https://github.com/bytemaster/bitshares)
+     - [比特股2.0 c++](http://github.com/bitshares)
+     - [fabric go](https://github.com/hyperledger/fabric)
      - [以太坊 go](https://github.com/ethereum/)
      - [tendermint 支持分片和智能合约10000tps go](https://github.com/tendermint/tendermint)
      - [龙链 支持智能合约 无币 联盟 python](https://github.com/dragonchain/dragonchain)
