@@ -22,7 +22,7 @@ Bitcoin 网络中的每个完整节点独立地存储仅包含由节点验证过
 |- | :-: | :-: | -:|
 |Version 		|	区块版本号 		|升级软件并指定新版本号时 	|4|
 |hashPrevBlock|	前一个区块的256-bit哈希值 |产生新的区块|	32|
-|hashMerkleRoot|	Merkle树根的256-bit哈希值	|收到了新的交易	32|
-|Time	|UTC到现在为止的时间间隔，单位为秒 	|	每几秒	4|
-|Bits	|当前POW的目标哈希值的压缩形式	|难度调整时	4|
+|hashMerkleRoot|	Merkle树根的256-bit哈希值	|收到了新的交易|	32|
+|Time	|UTC到现在为止的时间间隔，单位为秒 	|	每几秒|	4|
+|Bits	|当前POW的目标哈希值的压缩形式	|难度调整时|	4|
 |Nonce	|32-bit 随机数	|尝试新的hash时|	4|
