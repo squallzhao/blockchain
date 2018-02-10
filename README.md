@@ -4,8 +4,8 @@
 -  [交易数据merkle树](knowledge/transaction.md)
 -  [钱包地址算法](knowledge/walletaddress.md)
 -  [共识算法](knowledge/consimple.md)
--  [POW](knowledge/pow.md)
--  [POS](knowledge/pos.md)
+  -  [POW](knowledge/pow.md)
+  -  [POS](knowledge/pos.md)
 -  [块高和分叉](knowledge/blockheight.md)
 -  [共识规则更改软硬分叉](knowledge/con.md)
 -  [检测分叉](knowledge/fenchadetect.md)
@@ -15,5 +15,9 @@
 
 # 智能合约
 -  [以太坊和超级账本](knowledge/compare.md)
+
+# 源码
+- [显卡挖矿](https://github.com/luke-jr/bfgminer/)
+- [Cpu多算法挖矿](https://github.com/lucasjones/cpuminer-multi)
  
 
