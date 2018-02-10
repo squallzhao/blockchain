@@ -8,7 +8,7 @@ Bitcoin 网络中的每个完整节点独立地存储仅包含由节点验证过
 
 块
 
-|Field | 描述 | 大小|
+|Field | 描述 | 大小bytes|
 |- | :-: | -:|
 |Magic no | ”魔法数“，常数0xD9B4BEF9| 4|
 |Blocksize | 区块大小 | 4 |
