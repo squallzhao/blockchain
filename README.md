@@ -63,7 +63,8 @@
  - [区块链]
      - [评估框架]
          - [blockbench](knowledge/valuable.md)
-     - [tendermint 支持分片和智能合约10000tps](https://github.com/tendermint/tendermint)
-     - [龙链 支持智能合约 无币](https://github.com/dragonchain/dragonchain)
+     - [tendermint 支持分片和智能合约10000tps go](https://github.com/tendermint/tendermint)
+     - [龙链 支持智能合约 无币 联盟 python](https://github.com/dragonchain/dragonchain)
+     - [chain 支持智能合约 联盟 go](https://github.com/chain/chain)
          
 
