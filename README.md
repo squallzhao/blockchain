@@ -37,5 +37,12 @@
         - [opencl_brute](https://github.com/bkerler/opencl_brute)
         - [GpuShaTest](https://github.com/jonano614/GpuShaTest/)
         - [DaggerGpuMiner](https://github.com/jonano614/DaggerGpuMiner)
- 
+ - [钱包]
+     - [HD钱包]
+         - [keytree](https://github.com/stequald/KeyTree-qt/tree/master/keytree-qt)
+         - [coinclasses](https://github.com/stequald/CoinClasses)
+     - [客户端钱包]
+         - [ios](https://github.com/arcbit/arcbit-ios)
+         - [web](https://github.com/arcbit/arcbit-web)
+         - [android](https://github.com/arcbit/arcbit-android)
 
