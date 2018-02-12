@@ -34,3 +34,30 @@ https://ethereum.github.io/browser-solidity/
 # 调用
 
       mydemo.myfun.call(100)
+      
+#  调用区别
+
+    pragma solidity ^0.4.1; //编译器要求
+    contract ABC { 
+        address public owner; //合约创建者 
+        uint result; 
+        function ABC(){ 
+            owner = msg.sender; 
+        } 
+        function getresult() returns (uint){
+            return result ; 
+        } 
+        function assign(uint x, uint y) returns (uint){
+            result = x + y; 
+            return 1;
+        } 
+    }
+
+    abc.myfun.assign(3，2)只是在本地运行环境里调用了Go方法，并不会实际对区块链产生影响。
+    这里我们只是做一个加法运算，所以本地调用就可以得到abc.assign(3, 2, {from:eth.accounts[0]})
+    了。
+    abc.getresult.call()
+    5
+
+
+
