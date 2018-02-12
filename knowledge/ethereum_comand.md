@@ -41,3 +41,7 @@ eth.getBalance("0x2c425cdd0bfccf02568d34bc482d67ee184d485d")
 
 在dev环境下验证发现，当执行miner.start()时，返回null。但其实miner已经执行，只不过它在等待你发送交易之后才会生成新的区块。
 也就是说执行了miner.start(),它一直在等待，这是发送一笔交易，再查看区块高度发现已经增加一块。
+
+
+
+
