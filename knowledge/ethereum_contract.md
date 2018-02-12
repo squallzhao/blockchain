@@ -2,7 +2,23 @@
 
 https://ethereum.github.io/browser-solidity/
 
-    var ftestContract=web3.eth.contract([{"constant": false,"inputs": [{"name": "a","type": "uint256"}],"name": "myfun","outputs": [{"name": "b","type": "uint256"}],"payable": false,"type": "function","stateMutability": "nonpayable"}])
+#代码
+
+    pragma solidity ^0.4.0;
+    contract zhaogang {
+        function myfun(uint a) public 
+        returns (uint b){
+            return a*2;
+
+        }
+
+    }
+
+# 定义
+
+      var ftestContract=web3.eth.contract([{"constant": false,"inputs": [{"name": "a","type": "uint256"}],"name": "myfun","outputs": [{"name": "b","type": "uint256"}],"payable": false,"type": "function","stateMutability": "nonpayable"}])
+      
+# 部署实现
 
       var mydemo = ftestContract.new(
             {
@@ -15,5 +31,6 @@ https://ethereum.github.io/browser-solidity/
                   console.log('Contract mined! address: ' + contract.address + ' transactionHash: ' + contract.transactionHash);
              }
           })
- 
+# 调用
+
       mydemo.myfun.call(100)
