@@ -2,9 +2,9 @@
 
 https://ethereum.github.io/browser-solidity/
 
- var ftestContract=web3.eth.contract([{"constant": false,"inputs": [{"name": "a","type": "uint256"}],"name": "myfun","outputs": [{"name": "b","type": "uint256"}],"payable": false,"type": "function","stateMutability": "nonpayable"}])
+>var ftestContract=web3.eth.contract([{"constant": false,"inputs": [{"name": "a","type": "uint256"}],"name": "myfun","outputs": [{"name": "b","type": "uint256"}],"payable": false,"type": "function","stateMutability": "nonpayable"}])
 
- var mydemo = ftestContract.new(
+>var mydemo = ftestContract.new(
    {
      from: web3.eth.accounts[0], 
      data: '0x6060604052341561000f57600080fd5b5b60ab8061001e6000396000f30060606040526000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063b2d71d6814603d575b600080fd5b3415604757600080fd5b605b60048080359060200190919050506071565b6040518082815260200191505060405180910390f35b60006002820290505b9190505600a165627a7a723058205930294ad46f7b90442343990b182af2caf05b190cf3c5c7e58340706ae490080029', 
@@ -16,4 +16,4 @@ https://ethereum.github.io/browser-solidity/
     }
  })
  
- mydemo.myfun.call(100)
+ >mydemo.myfun.call(100)
