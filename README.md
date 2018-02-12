@@ -38,7 +38,7 @@
     -  [master bitcoin python](https://github.com/bitcoinbook/bitcoinbook)
     -  [开发资源](https://github.com/ChristopherA/Blockchain-Developer-Resources)
 - [以太坊]
-    -  [镜像](https://hub.docker.com/r/ethereum/client-go/)  docker run --name eth  ethereum/client-go  --dev   console
+    -  [镜像](https://hub.docker.com/r/ethereum/client-go/)  docker run  -p 8545:8545 -p 30303:30303  --name eth  ethereum/client-go  --rpcapi "db,eth,net,web3,personal,admin,miner" --dev   console
     -  [简介](http://ethfans.org/wikis/Home)
     -  [安装](knowledge/ethereum_install.md)
     -  [命令](knowledge/ethereum_comand.md)
