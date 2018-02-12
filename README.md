@@ -41,7 +41,7 @@
     -  [镜像](https://hub.docker.com/r/ethereum/client-go/)
     -  [简介](http://ethfans.org/wikis/Home)
     -  [安装](knowledge/ethereum_install.md)
-    -  [命令](knowledge/ethereum_command.md)
+    -  [命令](knowledge/ethereum_comand.md)
     -  [合约](knowledge/ethereum_contract.md)
     -  [投票&募捐](http://blog.csdn.net/qq_28114645/article/details/78802349)
 - [交易特性]
