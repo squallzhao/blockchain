@@ -2,7 +2,7 @@
 
 https://ethereum.github.io/browser-solidity/
 
-#代码
+# 代码
 
     pragma solidity ^0.4.0;
     contract zhaogang {
