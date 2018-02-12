@@ -39,6 +39,9 @@
     -  [开发资源](https://github.com/ChristopherA/Blockchain-Developer-Resources)
 - [以太坊]
     -  [镜像](https://hub.docker.com/r/ethereum/client-go/)
+    -  [安装](knowledge/ethereum_install.md)
+    -  [命令](knowledge/ethereum_command.md)
+    -  [合约](knowledge/ethereum_contract.md)
 - [交易特性]
     -  [Fundrawtransaction](https://bitcoincore.org/en/releases/0.14.0/)
 - [技术选型](http://blog.csdn.net/sunkun2013/article/details/52997971)
