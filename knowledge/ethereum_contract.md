@@ -2,6 +2,9 @@
 
 https://ethereum.github.io/browser-solidity/
 
+https://ethfiddle.com/
+
+
 # 代码
 
     pragma solidity ^0.4.0;
