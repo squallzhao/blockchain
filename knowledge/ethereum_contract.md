@@ -59,5 +59,7 @@ https://ethereum.github.io/browser-solidity/
     abc.getresult.call()
     5
 
+# 调用合约函数的时候同时转账 （投票给1号，并转账8888888到合约账户）
 
+votelihe.Vote_candidate(1, {from:eth.accounts[1], value: 8888888});
 
