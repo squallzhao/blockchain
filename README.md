@@ -53,6 +53,7 @@
        -  [1 代币&募资合约](http://blog.csdn.net/qq_28114645/article/details/78802349)
        -  [2 抢购合约](http://blog.csdn.net/fidelhl/article/details/50481859)
        -  [3 投票合约](http://www.8btc.com/ethereum-smart-contract)
+       -  [以太猫合约地址](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
     -  [Dapps for Beginners](https://dappsforbeginners.wordpress.com/)
     
 - [交易特性]
