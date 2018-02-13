@@ -1,23 +1,23 @@
 
-查看账户 
+# 查看账户 
 eth.accounts 或  personal.listAccounts
 
-查看块数
+# 查看块数
 eth.blockNumber
 
-查看coinbase的账户地址
+# 查看coinbase的账户地址
 eth.coinbase
 
-设置miner地址
+# 设置miner地址
 miner.setEtherbase(eth.coinbase)
 
-查看余额
+# 查看余额
 eth.getBalance("$accountname")
 
-新建账号
+# 新建账号
 personal.newAccount()
 
-交易
+# 交易
 acc0 = eth.accounts[0]
 
 acc1 = eth.accounts[1]
