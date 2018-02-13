@@ -48,7 +48,8 @@
     -  [安装](knowledge/ethereum_install.md)
     -  [命令](knowledge/ethereum_comand.md)
     -  [合约](knowledge/ethereum_contract.md)
-    -  [投票&募捐](http://blog.csdn.net/qq_28114645/article/details/78802349)
+    -  [1 代币&募资合约](http://blog.csdn.net/qq_28114645/article/details/78802349)
+    -  [2 购票合约](http://blog.csdn.net/fidelhl/article/details/50481859)
 - [交易特性]
     -  [Fundrawtransaction](https://bitcoincore.org/en/releases/0.14.0/)
 - [技术选型](http://blog.csdn.net/sunkun2013/article/details/52997971)
