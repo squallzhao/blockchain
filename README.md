@@ -45,7 +45,8 @@
     curl -H "Content-Type: application/json" -X POST --data '{"jsonrpc":"2.0","method":"web3_clientVersion","params":[],"id":67}' 'http://localhost:8545' -v
     -  [简介](http://ethfans.org/wikis/Home)
     -  [开发手册](https://www.51chain.net/portal/book/EthereumFrontierGuide/JSONRPCAPI-121.html)
-    -  [doc](http://www.ethdocs.org/en/latest/index.html#ethereum-homestead-documentation)
+    -  [solidity doc](http://solidity.readthedocs.io/en/latest/)
+    -  [ethereum doc](http://www.ethdocs.org/en/latest/index.html#ethereum-homestead-documentation)
     -  [安装](knowledge/ethereum_install.md)
     -  [命令](knowledge/ethereum_comand.md)
     -  [合约](knowledge/ethereum_contract.md)
