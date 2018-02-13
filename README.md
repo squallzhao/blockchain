@@ -40,6 +40,7 @@
 - [以太坊]
     -  [镜像](https://hub.docker.com/r/ethereum/client-go/)  docker run -it -p 8545:8545 -p 30303:30303  --name eth  ethereum/client-go  --rpcapi "db,eth,net,web3,personal,admin,miner" --dev   console
     -  [简介](http://ethfans.org/wikis/Home)
+    -  [开发手册](https://www.51chain.net/portal/book/EthereumFrontierGuide/JSONRPCAPI-121.html)
     -  [安装](knowledge/ethereum_install.md)
     -  [命令](knowledge/ethereum_comand.md)
     -  [合约](knowledge/ethereum_contract.md)
