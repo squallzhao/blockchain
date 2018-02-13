@@ -51,7 +51,8 @@
     -  [命令](knowledge/ethereum_comand.md)
     -  [合约](knowledge/ethereum_contract.md)
        -  [1 代币&募资合约](http://blog.csdn.net/qq_28114645/article/details/78802349)
-       -  [2 购票合约](http://blog.csdn.net/fidelhl/article/details/50481859)
+       -  [2 抢购合约](http://blog.csdn.net/fidelhl/article/details/50481859)
+       -  [3 投票合约](http://www.8btc.com/ethereum-smart-contract)
     -  [Dapps for Beginners](https://dappsforbeginners.wordpress.com/)
     
 - [交易特性]
