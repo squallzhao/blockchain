@@ -53,7 +53,7 @@
        -  [1 代币&募资合约](http://blog.csdn.net/qq_28114645/article/details/78802349)
        -  [2 抢购合约](http://blog.csdn.net/fidelhl/article/details/50481859)
        -  [3 投票合约](http://www.8btc.com/ethereum-smart-contract)
-       -  [以太猫合约地址](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
+       -  [以太猫合约地址](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code) [以太猫白皮书]（http://ethfans.org/posts/cryptokitties-whitepapaer) [合约解析]（http://ethfans.org/posts/how-to-code-your-own-cryptokitties-style-game-on-ethereum)
     -  [Dapps for Beginners](https://dappsforbeginners.wordpress.com/)
     
 - [交易特性]
