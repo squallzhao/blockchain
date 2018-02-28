@@ -109,6 +109,7 @@
      - [比特股2.0 c++](http://github.com/bitshares)
      - [fabric go](https://github.com/hyperledger/fabric)
      - [以太坊 go](https://github.com/ethereum/)
+     - [量子链 c++](https://github.com/qtumproject/qtum)
      - [Bytom](https://github.com/Bytom/bytom)
      - [侧链元素链](https://github.com/ElementsProject/elements)
      - [ripple](https://github.com/ripple/rippled)
