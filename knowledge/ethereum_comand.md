@@ -17,6 +17,9 @@ eth.getBalance("$accountname")
 # 新建账号
 personal.newAccount()
 
+#解锁账号
+personal.unlockAccount(acc2)
+
 # 交易
 acc0 = eth.accounts[0]
 
