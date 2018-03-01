@@ -32,6 +32,9 @@
     -  [stratum协议原理](http://blog.csdn.net/taifei/article/details/73322595)
     -  [stratum开发](https://www.jianshu.com/p/7b068d874244)
 
+# 行业
+- [2017]（http://blog.csdn.net/zw0pi8g5c1x/article/details/79267020）
+
 # 教程
 - [比特币]
     -  [命令行教程](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line)
