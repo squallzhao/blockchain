@@ -27,6 +27,7 @@
 -  [比特币改进提案bips](https://github.com/bitcoin/bips)
 -  [区块链第二层](knowledge/secondlayer.md)
 -  [预言机oracle](knowledge/yuyanji.md)
+-  [隐私保护4方案](http://www.sohu.com/a/210210946_651743)
 -  [运行模式, 交易类型, 部署](knowledge/mode.md)
 -  [stratum协议](https://slushpool.com/help/manual/stratum-protocol#download)
     -  [stratum协议原理](http://blog.csdn.net/taifei/article/details/73322595)
