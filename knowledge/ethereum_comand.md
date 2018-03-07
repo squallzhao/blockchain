@@ -26,6 +26,9 @@ eth.estimateGas({from:a2, to: a3, value:10000})
 # 解锁账号
 personal.unlockAccount(acc2)
 
+# 挖一块然后停止
+miner.start(1);admin.sleepBlocks(1);miner.stop();
+
 # 交易
 acc0 = eth.accounts[0]
 
