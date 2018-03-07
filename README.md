@@ -115,7 +115,7 @@
           - [量子链 c++](https://github.com/qtumproject/qtum)
           - [Bytom](https://github.com/Bytom/bytom)
           - [小蚁股 智能合约 c#](https://github.com/antshares/antshares)
-          - [ripple](https://github.com/ripple/rippled)
+          - [ripple 联盟链](https://github.com/ripple/rippled)
      - [比特币 c++](https://github.com/bitcoin)   [官网](https://bitcoin.org/)
      - [比特股1.0](https://github.com/bytemaster/bitshares)
      - [比特股2.0 c++](http://github.com/bitshares)
