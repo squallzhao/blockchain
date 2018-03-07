@@ -17,7 +17,13 @@ eth.getBalance("$accountname")
 # 新建账号
 personal.newAccount()
 
-#解锁账号
+# 查看交易池状态
+txpool.status
+
+# 统计燃气消耗量
+eth.estimateGas({from:a2, to: a3, value:10000})
+
+# 解锁账号
 personal.unlockAccount(acc2)
 
 # 交易
