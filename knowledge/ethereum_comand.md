@@ -29,6 +29,12 @@ personal.unlockAccount(acc2)
 # 挖一块然后停止
 miner.start(1);admin.sleepBlocks(1);miner.stop();
 
+# 查看交易
+eth.getTransaction(txid)
+
+# 查看块
+eth.getBlock(33)
+
 # 交易
 acc0 = eth.accounts[0]
 
