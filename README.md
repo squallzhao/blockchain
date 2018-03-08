@@ -66,6 +66,7 @@
     -  [Dapps for Beginners](https://dappsforbeginners.wordpress.com/)
 - [hyperledger]
     -  [在线试验](https://composer-playground.mybluemix.net/login)
+    -  [安装](http://blog.csdn.net/zhaoliang1131/article/details/55048967)
     
 - [交易特性]
     -  [Fundrawtransaction](https://bitcoincore.org/en/releases/0.14.0/)
