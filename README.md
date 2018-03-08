@@ -126,6 +126,7 @@
      - [decent内容发行](https://github.com/DECENTfoundation/DECENT-Network) [官网](https://decent.ch)
      - [aeternity](https://github.com/aeternity/epoch)
      - [asch](https://github.com/sqfasd/asch)
+     - [Zilliqa](https://github.com/Zilliqa/Zilliqa)
      - [litecoin](https://github.com/litecoin-project/litecore-litecoin)
      - [namecoin](https://github.com/namecoin/namecoin-core) [blockstack](https://github.com/blockstack/blockstack-core)
      - [emercoin](https://github.com/emercoin/emercoin)  [emercoin-blockchain-explorer](https://github.com/Valermos/emercoin-blockchain-explorer)
