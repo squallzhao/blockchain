@@ -124,6 +124,7 @@
      - [侧链元素链](https://github.com/ElementsProject/elements)
      - [亿书 nodejs](https://github.com/Ebookcoin) [官网](http://ebookchain.org/) 《Nodejs开发加密货币》
      - [decent内容发行](https://github.com/DECENTfoundation/DECENT-Network) [官网](https://decent.ch)
+     - [aeternity](https://github.com/aeternity/epoch)
      - [litecoin](https://github.com/litecoin-project/litecore-litecoin)
      - [namecoin](https://github.com/namecoin/namecoin-core) [blockstack](https://github.com/blockstack/blockstack-core)
      - [emercoin](https://github.com/emercoin/emercoin)  [emercoin-blockchain-explorer](https://github.com/Valermos/emercoin-blockchain-explorer)
