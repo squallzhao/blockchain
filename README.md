@@ -112,9 +112,9 @@
          - [blockbench](knowledge/valuable.md) [源码](https://github.com/ooibc88/blockbench)
      
      - [国内知名]
-          - [量子链 c++](https://github.com/qtumproject/qtum)
+          - [量子链 c++   类似以太坊](https://github.com/qtumproject/qtum)
           - [Bytom](https://github.com/Bytom/bytom)
-          - [小蚁股 智能合约 c#](https://github.com/antshares/antshares)
+          - [小蚁股 c# 类似以太坊](https://github.com/antshares/antshares)
           - [ripple 联盟链](https://github.com/ripple/rippled)
      - [比特币 c++](https://github.com/bitcoin)   [官网](https://bitcoin.org/)
      - [比特股1.0](https://github.com/bytemaster/bitshares)
