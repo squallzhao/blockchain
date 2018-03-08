@@ -38,6 +38,17 @@ eth.getBlock(33)
 # 本节点enode信息
 admin.nodeInfo.enode
 
+# 连接到其他节点
+admin.addPeer(enode)方法连接到其他节点，两个节点要想联通，必须保证网络是相通的，并且要指定相同的networkid。 
+addPeer()的参数就是需要连接节点的enode信息，注意要把enode中的[::]替换成其节点的IP地址。
+可以在启动节点的时候指定--bootnodes选项连接到其他节点
+
+# 查看连接到的其他节点信息
+admin.peers
+
+# 查看已连接到的节点数量
+net.peerCount
+
 # 交易
 acc0 = eth.accounts[0]
 
