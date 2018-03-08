@@ -64,6 +64,8 @@
        -  [以太猫白皮书](http://ethfans.org/posts/cryptokitties-whitepapaer) 
        -  [以太猫合约解析](http://ethfans.org/posts/how-to-code-your-own-cryptokitties-style-game-on-ethereum)
     -  [Dapps for Beginners](https://dappsforbeginners.wordpress.com/)
+- [hyperledger]
+    -  [在线试验](https://composer-playground.mybluemix.net/login)
     
 - [交易特性]
     -  [Fundrawtransaction](https://bitcoincore.org/en/releases/0.14.0/)
