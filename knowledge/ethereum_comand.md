@@ -35,6 +35,9 @@ eth.getTransaction(txid)
 # 查看块
 eth.getBlock(33)
 
+# 本节点enode信息
+admin.nodeInfo.enode
+
 # 交易
 acc0 = eth.accounts[0]
 
