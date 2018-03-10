@@ -135,7 +135,7 @@
      - [asch](https://github.com/sqfasd/asch)
      - [Zilliqa](https://github.com/Zilliqa/Zilliqa)
      - [litecoin](https://github.com/litecoin-project/litecore-litecoin)
-     - [namecoin](https://github.com/namecoin/namecoin-core) [blockstack](https://github.com/blockstack/blockstack-core)
+     - [namecoin](https://github.com/namecoin/namecoin-core) [blockstack 区块链互联网的浏览器](https://github.com/blockstack/blockstack-core)
      - [emercoin](https://github.com/emercoin/emercoin)  [emercoin-blockchain-explorer](https://github.com/Valermos/emercoin-blockchain-explorer)
      
      - [未来币 java](https://bitbucket.org/JeanLucPicard/nxt/overview)
