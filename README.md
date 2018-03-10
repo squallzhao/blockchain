@@ -36,7 +36,7 @@
 # 行业
 - [2016白皮书](http://www.cbdio.com/BigData/2016-10/21/content_5351215.htm) [2016](http://www.sohu.com/a/117063244_391519) [2016](http://blog.csdn.net/sportshark/article/details/53364690) [2017](http://blog.csdn.net/zw0pi8g5c1x/article/details/79267020)  [2017](http://wemedia.ifeng.com/48674796/wemedia.shtml) [2017](http://www.cnii.com.cn/technology/2017-12/15/content_2023283.htm) [12公司扎堆区块链](http://news.zol.com.cn/679/6795052.html)
 - appcoin
-- gifto
+- gifto  [白皮书](ppt/GIFTO_Whitepaper_V2.0_20171204.pdf) 
 
 # 交易所
 - [玩家网](http://www.chinawkb.com)
