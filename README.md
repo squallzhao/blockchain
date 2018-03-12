@@ -40,7 +40,7 @@
 - appcoin
 - [gifto](https://www.gifto.io) [白皮书](ppt/GIFTO_Whitepaper_V2.0_20171204.pdf) 
 - [chainsql trustsql](http://www.sohu.com/a/140939980_527281)
-- [众享比特](http://www.peersafe.cn)
+- [众享比特](http://www.peersafe.cn) https://github.com/ChainSQL/chainsqld/releases
 
 # 交易所
 - [玩家网](http://www.chinawkb.com)
