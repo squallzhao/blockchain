@@ -43,6 +43,7 @@
 - [众享比特](http://www.peersafe.cn) https://github.com/ChainSQL/chainsqld/releases
 - [区块链技术架构及进展](https://max.book118.com/html/2017/1222/145407864.shtm)
 - [区块链共识](https://max.book118.com/html/2017/0331/98151760.shtm)
+- [Proof of Elapsed Time--Hyperledger Sawtooth 共识算法](https://www.cnblogs.com/cnblogs-wangzhipeng/p/7379990.html)
 
 # 交易所
 - [玩家网](http://www.chinawkb.com)
