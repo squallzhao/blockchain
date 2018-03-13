@@ -76,6 +76,7 @@
     -  [安装](http://blog.csdn.net/zhaoliang1131/article/details/55048967)
     -  [学习教材](https://github.com/yeasy/hyperledger_code_fabric)
     -  [原理简介](http://blog.csdn.net/xcjing/article/details/78883642)
+    -  [执行图](http://blog.csdn.net/xjmtxwd24/article/details/54630121)
     
 - [交易特性]
     -  [Fundrawtransaction](https://bitcoincore.org/en/releases/0.14.0/)
