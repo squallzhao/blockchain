@@ -131,7 +131,7 @@
           - [量子链 c++   类似以太坊](https://github.com/qtumproject/qtum)
           - [Bytom](https://github.com/Bytom/bytom)
           - [小蚁股 c# 类似以太坊](https://github.com/antshares/antshares)
-          - [ripple 联盟链](https://github.com/ripple/rippled)
+          - [ripple 联盟链](https://github.com/ripple/rippled)  [支付原理](http://blog.csdn.net/wxid2798226/article/details/74516228)
      - [比特币 c++](https://github.com/bitcoin)   [官网](https://bitcoin.org/)
      - [比特股1.0](https://github.com/bytemaster/bitshares)
      - [比特股2.0 c++](http://github.com/bitshares)
