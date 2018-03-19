@@ -141,6 +141,7 @@
      - [侧链元素链](https://github.com/ElementsProject/elements)
      - [亿书 nodejs](https://github.com/Ebookcoin) [官网](http://ebookchain.org/) 《Nodejs开发加密货币》
      - [decent内容发行](https://github.com/DECENTfoundation/DECENT-Network) [官网](https://decent.ch)
+     - [QRL反量子链](https://github.com/theQRL/QRL/)
      - [aeternity](https://github.com/aeternity/epoch)
      - [asch](https://github.com/sqfasd/asch)
      - [Zilliqa](https://github.com/Zilliqa/Zilliqa)
