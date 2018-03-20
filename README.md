@@ -23,7 +23,7 @@
 -  [零知识证明](knowledge/zero.md)
 -  [隔离见证](knowledge/ge.md)
 -  [闪电网络](knowledge/lighting.md)
--  [侧链元素链](knowledge/celian.md)
+-  [元素链](knowledge/celian.md) [btcrelay中继器](https://github.com/ethereum/btcrelay) 
 -  [比特币改进提案bips](https://github.com/bitcoin/bips)
 -  [区块链第二层](knowledge/secondlayer.md)
 -  [预言机oracle](knowledge/yuyanji.md)
