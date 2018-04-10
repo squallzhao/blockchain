@@ -82,6 +82,8 @@
     -  [执行图](http://blog.csdn.net/xjmtxwd24/article/details/54630121)
     -  [调用demo运行于cli](knowledge/demo.sh)
     
+    ![1](picture/fabric1.jpg)
+    
 - [交易特性]
     -  [Fundrawtransaction](https://bitcoincore.org/en/releases/0.14.0/)
 - [技术选型](http://blog.csdn.net/sunkun2013/article/details/52997971)
