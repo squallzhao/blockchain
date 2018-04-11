@@ -142,7 +142,7 @@
      - [以太坊 go](https://github.com/ethereum/)
      - [eos](http://github.com/eosio)
      - [侧链元素链](https://github.com/ElementsProject/elements)
-     - [亿书 nodejs](https://github.com/Ebookcoin) [官网](http://ebookchain.org/) [解析](http://8btc.com/thread-37718-1-1.html) 《Nodejs开发加密货币》
+     - [亿书 nodejs](https://github.com/Ebookcoin) [Nodejs开发加密货币](http://bitcoin-on-nodejs.ebookchain.org/) [官网](http://ebookchain.org/) [解析](http://8btc.com/thread-37718-1-1.html) 
      - [decent内容发行](https://github.com/DECENTfoundation/DECENT-Network) [官网](https://decent.ch)
      - [QRL反量子链](https://github.com/theQRL/QRL/)
      - [aeternity](https://github.com/aeternity/epoch)
