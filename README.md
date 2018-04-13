@@ -74,6 +74,7 @@
        -  [以太猫合约解析](http://ethfans.org/posts/how-to-code-your-own-cryptokitties-style-game-on-ethereum)
     -  [以太坊如何工作的？](http://www.8btc.com/how-does-ethereum-work-anyway)
     -  [Dapps for Beginners](https://dappsforbeginners.wordpress.com/)
+    
 - [hyperledger]
     -  [在线试验](https://composer-playground.mybluemix.net/login)
     -  [安装](http://blog.csdn.net/zhaoliang1131/article/details/55048967)
@@ -139,7 +140,7 @@
      - [比特股1.0](https://github.com/bytemaster/bitshares)
      - [比特股2.0 c++](http://github.com/bitshares)
      - [fabric go](https://github.com/hyperledger/fabric)
-     - [以太坊 go](https://github.com/ethereum/)  [以太坊联盟链parity](http://www.8btc.com/ethereum-parity) [parity源码](https://github.com/paritytech/parity)
+     - [以太坊 go](https://github.com/ethereum/)  [以太坊联盟链parity2](http://www.8btc.com/ethereum-parity) [以太坊联盟链parity1](https://blog.csdn.net/fidelhl/article/details/55805638) [parity源码](https://github.com/paritytech/parity)
      - [eos](http://github.com/eosio)
      - [侧链元素链](https://github.com/ElementsProject/elements)
      - [亿书 nodejs](https://github.com/Ebookcoin) [Nodejs开发加密货币](http://bitcoin-on-nodejs.ebookchain.org/) [官网](http://ebookchain.org/) [解析](http://8btc.com/thread-37718-1-1.html) 
