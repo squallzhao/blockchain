@@ -65,7 +65,7 @@
     -  [ethereum doc](http://www.ethdocs.org/en/latest/index.html#ethereum-homestead-documentation)
     -  [安装](knowledge/ethereum_install.md)
     -  [命令](knowledge/ethereum_comand.md) [燃气](https://zhuanlan.zhihu.com/p/25897435)
-    -  [nonce](https://blog.csdn.net/wo541075754/article/details/78081478?locationnum=3&fps=1) 
+    -  [nonce1](https://blog.csdn.net/wo541075754/article/details/78081478?locationnum=3&fps=1) [nonce2](https://blog.csdn.net/wo541075754/article/details/79054937)
     -  [合约](knowledge/ethereum_contract.md)
        -  [1 代币&募资合约](http://blog.csdn.net/qq_28114645/article/details/78802349) [ERC20代币合约](http://blog.csdn.net/diandianxiyu_geek/article/details/78082551?utm_source=gold_browser_extension) [第一滴血代币合约](https://github.com/Firstbloodio/token/blob/master/smart_contract/FirstBloodToken.sol)
        -  [2 抢购合约](http://blog.csdn.net/fidelhl/article/details/50481859)
