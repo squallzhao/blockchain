@@ -139,7 +139,7 @@
      - [比特股1.0](https://github.com/bytemaster/bitshares)
      - [比特股2.0 c++](http://github.com/bitshares)
      - [fabric go](https://github.com/hyperledger/fabric)
-     - [以太坊 go](https://github.com/ethereum/)  [以太坊联盟链parity](http://www.8btc.com/ethereum-parity)
+     - [以太坊 go](https://github.com/ethereum/)  [以太坊联盟链parity](http://www.8btc.com/ethereum-parity) [parity源码](https://github.com/paritytech/parity)
      - [eos](http://github.com/eosio)
      - [侧链元素链](https://github.com/ElementsProject/elements)
      - [亿书 nodejs](https://github.com/Ebookcoin) [Nodejs开发加密货币](http://bitcoin-on-nodejs.ebookchain.org/) [官网](http://ebookchain.org/) [解析](http://8btc.com/thread-37718-1-1.html) 
