@@ -23,7 +23,7 @@
 -  [零知识证明](knowledge/zero.md)
 -  [隔离见证](knowledge/ge.md)
 -  [闪电网络](knowledge/lighting.md)
--  [元素链](knowledge/celian.md) [中继器](knowledge/btcrelay.md) [侧链几种方式1](http://www.8btc.com/sidechains-drivechains-and-rsk-2-way-peg-design) [侧链几种方式2](http://www.8btc.com/elwingao-blockchain-8) [cosmos](https://blog.csdn.net/sinat_34070003/article/details/79747211)
+-  [元素链](knowledge/celian.md) [中继器](knowledge/btcrelay.md) [侧链几种方式1](http://www.8btc.com/sidechains-drivechains-and-rsk-2-way-peg-design) [侧链几种方式2](http://www.8btc.com/elwingao-blockchain-8) [cosmos1](https://blog.csdn.net/sinat_34070003/article/details/79747211) [cosmos2](http://www.lechain.com/portal.php?mod=view&aid=2382)
 -  [比特币改进提案bips](https://github.com/bitcoin/bips)
 -  [区块链第二层](knowledge/secondlayer.md)
 -  [预言机oracle](knowledge/yuyanji.md)
