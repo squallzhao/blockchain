@@ -79,11 +79,11 @@
     -  [在线试验](https://composer-playground.mybluemix.net/login)
     -  [安装](http://blog.csdn.net/zhaoliang1131/article/details/55048967)
     -  [学习教材](https://github.com/yeasy/hyperledger_code_fabric)
-    -  [原理简介](http://blog.csdn.net/xcjing/article/details/78883642) [order](https://www.jianshu.com/p/bd00f24a4771)
-    -  [执行图](http://blog.csdn.net/xjmtxwd24/article/details/54630121)
+    -  [原理简介](http://blog.csdn.net/xcjing/article/details/78883642) [order](https://www.jianshu.com/p/bd00f24a4771) [order原理图](knowledge/order.md)
+    -  [执行图](http://blog.csdn.net/xjmtxwd24/article/details/54630121) 
     -  [调用demo运行于cli](knowledge/demo.sh) [以太坊&fabric开发资料大全](https://github.com/chaozh/awesome-blockchain-cn/blob/master/README.md)
     
-    ![1](picture/fabric1.jpg)
+  
     
 - [交易特性]
     -  [Fundrawtransaction](https://bitcoincore.org/en/releases/0.14.0/)
