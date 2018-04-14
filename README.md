@@ -26,9 +26,8 @@
 -  [跨链和侧链]
     -  [元素链](knowledge/celian.md) 
     -  [中继器](knowledge/btcrelay.md) 
-    -  [侧链实现模式: 不需改父链：单一，联盟，需要改父链：SPV, 驱动，混合](https://blog.csdn.net/sinat_34070003/article/details/79898822) 
+    -  [侧链实现模式: 不需改父链：单一，联盟，需要改父链：SPV, 驱动，混合](https://blog.csdn.net/sinat_34070003/article/details/79898822) [侧链实现模式解析2](http://www.8btc.com/sidechains-drivechains-and-rsk-2-way-peg-design)
     -  [对称式双向楔入,非对称式双向楔入](https://blog.csdn.net/sinat_34070003/article/details/79893407)
-    -  [侧链几种方式1](http://www.8btc.com/sidechains-drivechains-and-rsk-2-way-peg-design) 
     -  [中继器BTC Relay,  比特币侧链RootStock支持智能合约， 元素链比特币双向挂钩智能合约，LISK每种应用单独侧链， M2公证通多链hash写入主链, Polkadot打通以太坊和其他私链](http://www.8btc.com/elwingao-blockchain-8) 
     -  [制定通用跨链协议cosmos1](https://blog.csdn.net/sinat_34070003/article/details/79747211) [cosmos2](http://www.lechain.com/portal.php?mod=view&aid=2382)
 -  [比特币改进提案bips](https://github.com/bitcoin/bips)
