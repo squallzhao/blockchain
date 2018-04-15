@@ -165,7 +165,7 @@
      - [未来币 java](https://bitbucket.org/JeanLucPicard/nxt/overview)
      - [tendermint 支持以太坊分片和智能合约10000tps go 公链，联盟链 拜占庭容错](https://github.com/tendermint/tendermint)
      - [龙链 支持智能合约 无币 联盟 python](https://github.com/dragonchain/dragonchain)
-     - [chain 支持智能合约 联盟 go](https://github.com/chain/chain)
+     - [chain 支持智能合约 联盟 拜占庭 go](https://github.com/chain/chain)
      - [myblockchain 联盟 sql](https://github.com/myblockchain/myblockchain)
      - [hydrachain 联盟 基于以太坊私链](https://github.com/HydraChain/hydrachain)
 
