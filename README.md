@@ -40,7 +40,7 @@
     -  [stratum协议原理](http://blog.csdn.net/taifei/article/details/73322595)
     -  [stratum开发](https://www.jianshu.com/p/7b068d874244)
 -  [p2p网络简易例子](https://github.com/lhartikk/naivechain) [简易实现区块链](ppt/simple.txt)
-
+-  [必备知识](http://www.cocoachina.com/cms/wap.php?action=article&id=22375)
 
 # 行业
 - [2016白皮书](http://www.cbdio.com/BigData/2016-10/21/content_5351215.htm) [2016](http://www.sohu.com/a/117063244_391519) [2016](http://blog.csdn.net/sportshark/article/details/53364690) [2017](http://blog.csdn.net/zw0pi8g5c1x/article/details/79267020)  [2017](http://wemedia.ifeng.com/48674796/wemedia.shtml) [2017](http://www.cnii.com.cn/technology/2017-12/15/content_2023283.htm) [12公司扎堆区块链](http://news.zol.com.cn/679/6795052.html)
@@ -161,6 +161,7 @@
      - [namecoin](https://github.com/namecoin/namecoin-core) [blockstack 区块链互联网的浏览器](https://github.com/blockstack/blockstack-core) [资料](knowledge/blockstack.md)
      - [emercoin](https://github.com/emercoin/emercoin)  [emercoin-blockchain-explorer](https://github.com/Valermos/emercoin-blockchain-explorer)
      - [Quorum以太坊联盟链](https://blog.csdn.net/about_blockchain/article/details/78769872) [Quorum2](https://m.jinse.com/news/blockchain/119426.html)
+     - [openchain联盟链 c#](https://github.com/openchain/)
      - [未来币 java](https://bitbucket.org/JeanLucPicard/nxt/overview)
      - [tendermint 支持以太坊分片和智能合约10000tps go 公链，联盟链 拜占庭容错](https://github.com/tendermint/tendermint)
      - [龙链 支持智能合约 无币 联盟 python](https://github.com/dragonchain/dragonchain)
