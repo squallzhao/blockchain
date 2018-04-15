@@ -162,7 +162,7 @@
      - [emercoin](https://github.com/emercoin/emercoin)  [emercoin-blockchain-explorer](https://github.com/Valermos/emercoin-blockchain-explorer)
      - [Quorum以太坊联盟链](https://blog.csdn.net/about_blockchain/article/details/78769872) [Quorum2](https://m.jinse.com/news/blockchain/119426.html)
      - [未来币 java](https://bitbucket.org/JeanLucPicard/nxt/overview)
-     - [tendermint 支持以太坊分片和智能合约10000tps go 公链，联盟链](https://github.com/tendermint/tendermint)
+     - [tendermint 支持以太坊分片和智能合约10000tps go 公链，联盟链 拜占庭容错](https://github.com/tendermint/tendermint)
      - [龙链 支持智能合约 无币 联盟 python](https://github.com/dragonchain/dragonchain)
      - [chain 支持智能合约 联盟 go](https://github.com/chain/chain)
      - [myblockchain 联盟 sql](https://github.com/myblockchain/myblockchain)
