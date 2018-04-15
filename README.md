@@ -163,7 +163,7 @@
      - [Quorum以太坊联盟链](https://blog.csdn.net/about_blockchain/article/details/78769872) [Quorum2](https://m.jinse.com/news/blockchain/119426.html) [Quorum原理](http://rdc.hundsun.com/portal/article/892.mhtml)
      - [openchain联盟链 c# 工具 非区块链](https://github.com/openchain/) [文档](http://openchain.readthedocs.io/en/latest/index.html)
      - [未来币 java](https://bitbucket.org/JeanLucPicard/nxt/overview)
-     - [tendermint 支持以太坊分片和智能合约10000tps go 公链，联盟链 拜占庭容错](https://github.com/tendermint/tendermint)
+     - [tendermint 支持以太坊分片和智能合约10000tps go 公链，联盟链 拜占庭容错](https://github.com/tendermint/tendermint) [tendermint建立私链](https://zhuanlan.zhihu.com/p/33154604) [Tendermint + Ethermint](https://blog.csdn.net/yelong0201/article/details/77571452)
      - [龙链 支持智能合约 无币 联盟 python](https://github.com/dragonchain/dragonchain)
      - [chain 支持智能合约 联盟 拜占庭 go](https://github.com/chain/chain)
      - [myblockchain 联盟 sql](https://github.com/myblockchain/myblockchain)
