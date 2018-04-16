@@ -48,6 +48,7 @@
         - [Quorum企业级以太坊](https://github.com/jpmorganchase/quorum)
         - [parity-bridge以太坊体系间桥接](https://github.com/paritytech/parity-bridge)
         - [parityPOA共识](https://github.com/paritytech/parity)
+        - [openchain实时确认](https://github.com/openchain/openchain)
         - [Ethermint+Tendermint高效共识]
         
     - [R3区块链联盟 			        Corda]
