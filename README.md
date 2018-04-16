@@ -46,6 +46,10 @@
 - 联盟链
     - [EEA企业以太坊联盟			Quntum]
         - [Quorum企业级以太坊](https://github.com/jpmorganchase/quorum)
+          - [1](https://blog.csdn.net/about_blockchain)
+          - [2](http://www.8btc.com/jpmorganchase-quorum)
+          - [3](https://ethfans.org/posts/ethereum-overview)
+          - [4](https://github.com/jpmorganchase/quorum-examples/blob/master/examples/7nodes/README.md)
         - [parity-bridge以太坊体系间桥接](https://github.com/paritytech/parity-bridge)
         - [parityPOA共识](https://github.com/paritytech/parity)
         - [openchain实时确认](https://github.com/openchain/openchain)
