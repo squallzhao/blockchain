@@ -45,6 +45,7 @@
 # 技术体系整理
 - 联盟链
     - [EEA企业以太坊联盟			Quntum]
+        - [parity-bridge以太坊体系间桥接](https://github.com/paritytech/parity-bridge)
     - [R3区块链联盟 			        Corda]
     - [Hyperledger区块链联盟			Fabric]
 
