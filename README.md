@@ -50,6 +50,7 @@
           - [2](http://www.8btc.com/jpmorganchase-quorum)
           - [3](https://ethfans.org/posts/ethereum-overview)
           - [4](https://github.com/jpmorganchase/quorum-examples/blob/master/examples/7nodes/README.md)
+          - [5](https://www.jianshu.com/p/54dee4906cda）
         - [parity-bridge以太坊体系间桥接](https://github.com/paritytech/parity-bridge)
         - [parityPOA共识](https://github.com/paritytech/parity)
         - [openchain实时确认](https://github.com/openchain/openchain)
