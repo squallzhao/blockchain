@@ -170,6 +170,7 @@
      - [fabric go](https://github.com/hyperledger/fabric)
      - [以太坊 go](https://github.com/ethereum/)  [以太坊联盟链parity2](http://www.8btc.com/ethereum-parity) [以太坊联盟链parity1](https://blog.csdn.net/fidelhl/article/details/55805638) [parity源码](https://github.com/paritytech/parity) [共识算法](http://m.wosku.com/yl/bg/2017-07-05/432808.html)
      - [eos](http://github.com/eosio)
+     - [stella](https://www.stellar.org/developers/guides/get-started/transactions.html)
      - [侧链元素链](https://github.com/ElementsProject/elements)
      - [亿书 nodejs](https://github.com/Ebookcoin) [Nodejs开发加密货币](http://bitcoin-on-nodejs.ebookchain.org/) [官网](http://ebookchain.org/) [解析](http://8btc.com/thread-37718-1-1.html) 
      - [decent内容发行](https://github.com/DECENTfoundation/DECENT-Network) [官网](https://decent.ch)
