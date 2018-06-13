@@ -16,6 +16,7 @@
 -  [共识算法](knowledge/consimple.md)
     -  [POW](knowledge/pow.md)
     -  [POS](knowledge/pos.md)
+    -  [algorand](https://blog.csdn.net/omnispace/article/details/80234605)
 -  [块高和分叉](knowledge/blockheight.md)
     -  [共识规则更改软硬分叉](knowledge/con.md)
     -  [检测分叉](knowledge/fenchadetect.md)
