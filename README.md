@@ -168,6 +168,7 @@
      - [比特币 c++](https://github.com/bitcoin)   [官网](https://bitcoin.org/)
      - [比特股1.0](https://github.com/bytemaster/bitshares)
      - [比特股2.0 c++](http://github.com/bitshares)
+     - [以太坊dpos](https://github.com/meitu/go-ethereum) [美图](https://ethfans.org/topics/1938)
      - [fabric go](https://github.com/hyperledger/fabric)
      - [以太坊 go](https://github.com/ethereum/)  [以太坊联盟链parity2](http://www.8btc.com/ethereum-parity) [以太坊联盟链parity1](https://blog.csdn.net/fidelhl/article/details/55805638) [parity源码](https://github.com/paritytech/parity) [共识算法](http://m.wosku.com/yl/bg/2017-07-05/432808.html)
      - [eos](http://github.com/eosio)
