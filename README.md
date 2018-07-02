@@ -42,6 +42,7 @@
     -  [stratum开发](https://www.jianshu.com/p/7b068d874244)
 -  [p2p网络简易例子](https://github.com/lhartikk/naivechain) [简易实现区块链](ppt/simple.txt)
 -  [必备知识](http://www.cocoachina.com/cms/wap.php?action=article&id=22375)  [新生代开源区块链](https://blog.csdn.net/elwingao/article/details/52963580)
+-  [DAG](knowledge/dag.md)
 
 # 技术体系整理
 - 联盟链
